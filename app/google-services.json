@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "858283083224",
+    "project_id": "appfina-5f03f",
+    "storage_bucket": "appfina-5f03f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858283083224:android:f17aaaa67d203155d95ead",
+        "android_client_info": {
+          "package_name": "com.dialiax.sweeto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAi3BZRVUOfRY4PBTX2Qb1v62vcZLfxvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
